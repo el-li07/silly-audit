@@ -34,6 +34,8 @@ KEYWORDS = {
         "food": [
             "yogurt",
             "cake",
+            "dinner",
+            "energy drink",
             "cookies",
             "snack",
             "food",
@@ -47,6 +49,7 @@ KEYWORDS = {
             "headphones",
             "phone",
             "bag",
+            "backpack",
             "keys",
             "book",
         ],
@@ -64,6 +67,7 @@ KEYWORDS = {
         "premises": [
             "door",
             "room",
+            "flat",
             "office",
             "apartment",
             "house",
