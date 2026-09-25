@@ -2,7 +2,10 @@ def generate_ticket(analysis, result, recommendations):
     if result is None:
         return """
 ----------------------------------------
-SILLY AUDIT
+  ______   _ _   _   _____  ____ ____
+  [__ ||   |  \_/    |__||  ||  \| |
+  ___]||___|___|     |  ||__||__/| | 
+
 ----------------------------------------
 
 Unable to classify incident.
@@ -25,7 +28,10 @@ Provide additional information.
 
     return f"""
 ----------------------------------------
-SILLY AUDIT
+  ______   _ _   _   _____  ____ ____
+  [__ ||   |  \_/    |__||  ||  \| |
+  ___]||___|___|     |  ||__||__/| | 
+
 ----------------------------------------
 
 Threat: {threat["name"]}
